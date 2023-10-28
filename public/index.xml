@@ -1,12 +1,662 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Blowfish! :tada: on U&#43;X Together</title>
+    <title>Welcome to Blowfish! :tada: on U&amp;I Together</title>
     <link>https://example.org/</link>
-    <description>Recent content in Welcome to Blowfish! :tada: on U&#43;X Together</description>
+    <description>Recent content in Welcome to Blowfish! :tada: on U&amp;I Together</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2023 </copyright>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Kaamraan Raboobee :copyright: 2023</copyright>
+    <lastBuildDate>Sat, 28 Oct 2023 18:23:44 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bachelor of Science (2023-)</title>
+      <link>https://example.org/education/bsc/</link>
+      <pubDate>Sat, 28 Oct 2023 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/bsc/</guid>
+      <description>Mathematics &amp;amp; Computer Science # Unisa # After several years of self-study and informal education, I decided to pursue a Bachelor of Science degree in Computer Science.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ionic</title>
+      <link>https://example.org/skills/ionic/</link>
+      <pubDate>Sat, 28 Oct 2023 17:24:33 +0200</pubDate>
+      
+      <guid>https://example.org/skills/ionic/</guid>
+      <description>Cross-platform App Development # Ionic allows for intuitive cross-platform development with Javascript.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://example.org/skills/hugo/</link>
+      <pubDate>Sat, 28 Oct 2023 17:24:26 +0200</pubDate>
+      
+      <guid>https://example.org/skills/hugo/</guid>
+      <description>Incredibly Fast Static Websites # Sites built with Hugo are ridiculously fast.</description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://example.org/skills/linux/</link>
+      <pubDate>Sat, 28 Oct 2023 17:24:11 +0200</pubDate>
+      
+      <guid>https://example.org/skills/linux/</guid>
+      <description>Alternative Operating Systems # I&amp;rsquo;ve used distros based on Ubuntu and Arch, with Manjaro being my favourite.</description>
+      
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://example.org/skills/docker/</link>
+      <pubDate>Sat, 28 Oct 2023 17:24:07 +0200</pubDate>
+      
+      <guid>https://example.org/skills/docker/</guid>
+      <description>Software containerization # Working with containers allows for consistency in development across different environments and greater compatibility between different languages.</description>
+      
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://example.org/skills/typescript/</link>
+      <pubDate>Sat, 28 Oct 2023 17:23:51 +0200</pubDate>
+      
+      <guid>https://example.org/skills/typescript/</guid>
+      <description>Javascript with Types # Typescript adds a lot of features to Javascript.</description>
+      
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://example.org/skills/django/</link>
+      <pubDate>Sat, 28 Oct 2023 17:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/skills/django/</guid>
+      <description>Web framework based on Python # With Python having been my entry point into programming, I naturally had to try one of its most popular frameworks.</description>
+      
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://example.org/skills/react/</link>
+      <pubDate>Sat, 28 Oct 2023 17:20:00 +0200</pubDate>
+      
+      <guid>https://example.org/skills/react/</guid>
+      <description>Web framework based on Javascript # I enjoy using React due to its speed and the convenience of reusable components.</description>
+      
+    </item>
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>https://example.org/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/multiple-authors/</guid>
+      <description>A quick example of how multiple authors could be used.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/multiple-authors/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Thumbnails</title>
+      <link>https://example.org/samples/thumbnail_sample/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/thumbnail_sample/</guid>
+      <description>A quick example of how to start using Thumbnails in your artciles.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/thumbnail_sample/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Welcome to Blowfish</title>
+      <link>https://example.org/docs/welcome/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/welcome/</guid>
+      <description>Blowfish is packed with tons of features.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/welcome/featured.png" />
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://example.org/docs/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/installation/</guid>
+      <description>Simply follow the standard Hugo Quick Start procedure to get up and running quickly.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/installation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://example.org/docs/getting-started/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/getting-started/</guid>
+      <description>This section assumes you have already installed the Blowfish theme.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/getting-started/featured.png" />
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>https://example.org/docs/configuration/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/configuration/</guid>
+      <description>Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/configuration/featured.png" />
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>https://example.org/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/icons/</guid>
+      <description>Blowfish has built-in support for a number of FontAwesome 6 icons.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/icons/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Homepage Layout</title>
+      <link>https://example.org/docs/homepage-layout/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/homepage-layout/</guid>
+      <description>Blowfish provides a fully flexible homepage layout.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/homepage-layout/featured.png" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>https://example.org/docs/front-matter/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/front-matter/</guid>
+      <description>In addition to the default Hugo front matter parameters, Blowfish adds a number of additional options to customise the presentation of individual articles.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/front-matter/featured.png" />
+    </item>
+    
+    <item>
+      <title>Thumbnails</title>
+      <link>https://example.org/docs/thumbnails/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/thumbnails/</guid>
+      <description>Thumbnails # Blowfish was enhanced in order to make it easy to add visual support to your posts.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/thumbnails/featured.png" />
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://example.org/docs/shortcodes/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/shortcodes/</guid>
+      <description>In addition to all the default Hugo shortcodes, Blowfish adds a few extras for additional functionality.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/shortcodes/featured.png" />
+    </item>
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>https://example.org/docs/multi-author/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/multi-author/</guid>
+      <description>Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/multi-author/featured.png" />
+    </item>
+    
+    <item>
+      <title>Partials</title>
+      <link>https://example.org/docs/partials/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/partials/</guid>
+      <description>Analytics # Blowfish provides built-in support for Fathom Analytics and Google Analytics.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/partials/featured.png" />
+    </item>
+    
+    <item>
+      <title>Content Examples</title>
+      <link>https://example.org/docs/content-examples/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/content-examples/</guid>
+      <description>If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/content-examples/featured.png" />
+    </item>
+    
+    <item>
+      <title>Series</title>
+      <link>https://example.org/docs/series/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/series/</guid>
+      <description>Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/series/featured.png" />
+    </item>
+    
+    <item>
+      <title>Advanced Customisation</title>
+      <link>https://example.org/docs/advanced-customisation/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/advanced-customisation/</guid>
+      <description>There are many ways you can make advanced changes to Blowfish.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/advanced-customisation/featured.png" />
+    </item>
+    
+    <item>
+      <title>Hosting &amp; Deployment</title>
+      <link>https://example.org/docs/hosting-deployment/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/hosting-deployment/</guid>
+      <description>There are many ways to deploy your Hugo website built with Blowfish.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/hosting-deployment/featured.png" />
+    </item>
+    
+    <item>
+      <title>Firebase: Views &amp; Likes</title>
+      <link>https://example.org/docs/firebase-views/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/docs/firebase-views/</guid>
+      <description>In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/docs/firebase-views/featured.png" />
+    </item>
+    
+    <item>
+      <title>Software Engineering Bootcamp Certificate</title>
+      <link>https://example.org/education/hyperion-dev/</link>
+      <pubDate>Mon, 28 Oct 2019 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/hyperion-dev/</guid>
+      <description>Full Stack Software Development # Hyperion Dev # This 6-month Bootcamp involved a wide range of software development concepts.</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/markdown/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/markdown/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://example.org/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/rich-content/</guid>
+      <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/rich-content/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://example.org/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mathematical notation</title>
+      <link>https://example.org/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/mathematical-notation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-10/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-10/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-11/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-11/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-12/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-12/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-13/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-13/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-14/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-14/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-15/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-15/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-16/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-16/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-17/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-17/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-18/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-18/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-19/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-19/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-2/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-2/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-20/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-20/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-21/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-21/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-22/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-22/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-23/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-23/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-24/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-24/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-25/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-25/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-26/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-26/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-27/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-27/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-28/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-28/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-3/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-3/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-4/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-4/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-5/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-5/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-6/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-6/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-7/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-7/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-8/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-8/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy-9/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy-9/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1-copy/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1-copy/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/pagtest/file1/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pagtest/file1/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://example.org/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/charts/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/charts/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Diagrams and Flowcharts</title>
+      <link>https://example.org/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/diagrams-flowcharts/</guid>
+      <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/diagrams-flowcharts/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Emoji :parachute:</title>
+      <link>https://example.org/samples/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/samples/emoji/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/samples/emoji/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Bachelor of Social Science (2014)</title>
+      <link>https://example.org/education/ba-hons/</link>
+      <pubDate>Tue, 28 Oct 2014 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/ba-hons/</guid>
+      <description>Media &amp;amp; Cultural Studies # University of KwaZulu-Natal # My postgraduate studies helped me understand how to create great media of my own.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bachelor of Social Science (2011-2013)</title>
+      <link>https://example.org/education/bss/</link>
+      <pubDate>Mon, 28 Oct 2013 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/bss/</guid>
+      <description>Media, Marketing, Italian # University of KwaZulu-Natal # My first undergraduate degree helped me develop my communication skills and deep understanding of new media.</description>
+      
+    </item>
+    
   </channel>
 </rss>

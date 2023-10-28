@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on U&amp;I Together</title>
+    <link>https://example.org/education/</link>
+    <description>Recent content in Education on U&amp;I Together</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Kaamraan Raboobee :copyright: 2023</copyright>
+    <lastBuildDate>Sat, 28 Oct 2023 18:23:44 +0200</lastBuildDate><atom:link href="https://example.org/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bachelor of Science (2023-)</title>
+      <link>https://example.org/education/bsc/</link>
+      <pubDate>Sat, 28 Oct 2023 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/bsc/</guid>
+      <description>Mathematics &amp;amp; Computer Science # Unisa # After several years of self-study and informal education, I decided to pursue a Bachelor of Science degree in Computer Science.</description>
+      
+    </item>
+    
+    <item>
+      <title>Software Engineering Bootcamp Certificate</title>
+      <link>https://example.org/education/hyperion-dev/</link>
+      <pubDate>Mon, 28 Oct 2019 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/hyperion-dev/</guid>
+      <description>Full Stack Software Development # Hyperion Dev # This 6-month Bootcamp involved a wide range of software development concepts.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bachelor of Social Science (2014)</title>
+      <link>https://example.org/education/ba-hons/</link>
+      <pubDate>Tue, 28 Oct 2014 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/ba-hons/</guid>
+      <description>Media &amp;amp; Cultural Studies # University of KwaZulu-Natal # My postgraduate studies helped me understand how to create great media of my own.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bachelor of Social Science (2011-2013)</title>
+      <link>https://example.org/education/bss/</link>
+      <pubDate>Mon, 28 Oct 2013 18:23:44 +0200</pubDate>
+      
+      <guid>https://example.org/education/bss/</guid>
+      <description>Media, Marketing, Italian # University of KwaZulu-Natal # My first undergraduate degree helped me develop my communication skills and deep understanding of new media.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
