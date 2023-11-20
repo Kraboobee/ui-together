@@ -3,7 +3,7 @@ title: "Welcome to Blowfish! :tada:"
 description: "This is a demo of the Blowfish theme for Hugo."
 ---
 {{< lead >}}
-## *"We should pay someone a lot of money to make our website look nice."*
+### *"We should pay someone a lot of money to make our website look nice."*
  {{< /lead >}}
 ### -You, before a huge mistake
 

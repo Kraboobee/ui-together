@@ -1,0 +1,218 @@
+:root { 
+    --color-neutral:        245, 249, 255;
+    --color-neutral-50:     245, 249, 255;
+    --color-neutral-100:    235, 243, 255;
+    --color-neutral-200:    204, 223, 255;
+    --color-neutral-300:    168, 196, 255;
+    --color-neutral-400:    133, 163, 255;
+    --color-neutral-500:    80, 109, 251;
+    --color-neutral-600:    49, 66, 221;
+    --color-neutral-700:    55, 65, 174;
+    --color-neutral-800:    16, 20, 66;
+    --color-neutral-900:    11, 13, 35;;
+
+    --color-primary-50:     241, 239, 254;
+    --color-primary-100:    231, 226, 253;
+    --color-primary-200:    212, 202, 251;
+    --color-primary-300:    189, 170, 247;
+    --color-primary-400:    170, 136, 241;
+    --color-primary-500:    158, 108, 232;
+    --color-primary-600:    146, 80, 219;
+    --color-primary-700:    127, 65, 193;
+    --color-primary-800:    103, 55, 156;
+    --color-primary-900:    84, 51, 124;
+    
+    --color-secondary-50:   217, 212, 252;
+    --color-secondary-100:  208, 198, 251;
+    --color-secondary-200:  189, 174, 249;
+    --color-secondary-300:  168, 143, 245;
+    --color-secondary-400:  150, 109, 238;
+    --color-secondary-500:  126, 61, 225;
+    --color-secondary-600:  107, 38, 186;
+    --color-secondary-700:  90, 45, 139;
+    --color-secondary-800:  65, 34, 98;
+    --color-secondary-900:  46, 28, 69;
+}
+/* 
+@font-face {
+    font-family: font;
+    src: url('/fonts/DMMono-Regular.ttf');
+} */
+
+@font-face {
+    font-family: font;
+    src: url('/fonts/font.ttf');
+}
+
+html {
+    font-family: font;
+}
+
+
+/* :root {    
+    --color-neutral:        241, 239, 255;
+    --color-neutral-50:     251, 250, 255;
+    --color-neutral-100:    239, 236, 254;
+    --color-neutral-200:    220, 212, 252;
+    --color-neutral-300:    197, 180, 248;
+    --color-neutral-400:    170, 136, 241;
+    --color-neutral-500:    158, 108, 232;
+    --color-neutral-600:    146, 80, 219;
+    --color-neutral-700:    90, 50, 133;
+    --color-neutral-800:    43, 23, 64;
+    --color-neutral-900:    24, 15, 36;
+    
+    --color-primary-50:  245, 249, 255;
+    --color-primary-100: 235, 243, 255;
+    --color-primary-200: 204, 223, 255;
+    --color-primary-300: 168, 196, 255;
+    --color-primary-400: 133, 163, 255;
+    --color-primary-500: 80, 109, 251;
+    --color-primary-600: 49, 66, 221;
+    --color-primary-700: 55, 65, 174;
+    --color-primary-800: 16, 20, 66;
+    --color-primary-900: 11, 13, 35;;
+    
+    --color-secondary-50:   217, 212, 252;
+    --color-secondary-100:  208, 198, 251;
+    --color-secondary-200:  189, 174, 249;
+    --color-secondary-300:  168, 143, 245;
+    --color-secondary-400:  150, 109, 238;
+    --color-secondary-500:  126, 61, 225;
+    --color-secondary-600:  107, 38, 186;
+    --color-secondary-700:  90, 45, 139;
+    --color-secondary-800:  65, 34, 98;
+    --color-secondary-900:  46, 28, 69;
+} */
+
+/* :root { 
+    --color-neutral:        255, 255, 255;
+    --color-neutral-50:        255, 255, 255;
+    --color-neutral-100:     241, 239, 254;
+    --color-neutral-200:    231, 226, 253;
+    --color-neutral-300:    212, 202, 251;
+    --color-neutral-400:    189, 170, 247;
+    --color-neutral-500:    170, 136, 241;
+    --color-neutral-600:    158, 108, 232;
+    --color-neutral-700:    146, 80, 219;
+    --color-neutral-800:    127, 65, 193;
+    --color-neutral-900:    103, 55, 156;
+    
+    --color-primary-50:     237, 244, 255;
+    --color-primary-100:    222, 235, 255;
+    --color-primary-200:    195, 217, 255;
+    --color-primary-300:    159, 190, 255;
+    --color-primary-400:    120, 153, 255;
+    --color-primary-500:    81, 110, 251;
+    --color-primary-600:    59, 76, 240;
+    --color-primary-700:    46, 59, 212;
+    --color-primary-800:    40, 52, 171;
+    --color-primary-900:    40, 51, 135;
+
+    
+    --color-secondary-50:   235, 253, 255;
+    --color-secondary-100:  205, 245, 255;
+    --color-secondary-200:  178, 238, 255;
+    --color-secondary-300:  98, 218, 254;
+    --color-secondary-400:  27, 190, 245;
+    --color-secondary-500:  0, 161, 219;
+    --color-secondary-600:  2, 128, 184;
+    --color-secondary-700:  10, 103, 148;
+    --color-secondary-800:  18, 84, 120;
+    --color-secondary-900:  19, 69, 102;
+    } */
+
+
+
+
+
+/* 'royal-blue': {
+    '50': '#edf4ff',
+    '100': '#deebff',
+    '200': '#c3d9ff',
+    '300': '#9fbeff',
+    '400': '#7899ff',
+    '500': '#516efb',
+    '600': '#3b4cf0',
+    '700': '#2e3bd4',
+    '800': '#2834ab',
+    '900': '#283387',
+    '950': '#181d4e',
+    
+    --color-primary-50: 237 244 255;
+    --color-primary-100: 222 235 255;
+    --color-primary-200: 195 217 255;
+    --color-primary-300: 159 190 255;
+    --color-primary-400: 120 153 255;
+    --color-primary-500: 81 110 251;
+    --color-primary-600: 59 76 240;
+    --color-primary-700: 46 59 212;
+    --color-primary-800: 40 52 171;
+    --color-primary-900: 40 51 135;
+},
+
+'charlotte': {
+    '50': '#ebfdff',
+    '100': '#cdf5ff',
+    '200': '#b2eeff',
+    '300': '#62dafe',
+    '400': '#1bbef5',
+    '500': '#00a1db',
+    '600': '#0280b8',
+    '700': '#0a6794',
+    '800': '#125478',
+    '900': '#134566',
+    '950': '#062c46',
+    
+    --color-secondary-50: 235 253 255;
+    --color-secondary-100: 205 245 255;
+    --color-secondary-200: 178 238 255;
+    --color-secondary-300: 98 218 254;
+    --color-secondary-400: 27 190 245;
+    --color-secondary-500: 0 161 219;
+    --color-secondary-600: 2 128 184;
+    --color-secondary-700: 10 103 148;
+    --color-secondary-800: 18 84 120;
+    --color-secondary-900: 19 69 102;
+    --color-secondary-950: 6 44 70;
+},
+
+'thunderbird': {
+    '50': '#fef3f2',
+    '100': '#fee4e2',
+    '200': '#ffcec9',
+    '300': '#fdaca4',
+    '400': '#fa7b6f',
+    '500': '#f25041',
+    '600': '#cf2d1e',
+    '700': '#bc2719',
+    '800': '#9b2419',
+    '900': '#81241b',
+    '950': '#460e09',
+},
+
+'grape': {
+    '50': '#f1effe',
+    '100': '#e7e2fd',
+    '200': '#d4cafb',
+    '300': '#bdaaf7',
+    '400': '#aa88f1',
+    '500': '#9e6ce8',
+    '600': '#9250db',
+    '700': '#7f41c1',
+    '800': '#67379c',
+    '900': '#54337c',
+    '950': '#392252',
+
+    --color-neutral-50: 241 239 254;
+    --color-neutral-100: 231 226 253;
+    --color-neutral-200: 212 202 251;
+    --color-neutral-300: 189 170 247;
+    --color-neutral-400: 170 136 241;
+    --color-neutral-500: 158 108 232;
+    --color-neutral-600: 146 80 219;
+    --color-neutral-700: 127 65 193;
+    --color-neutral-800: 103 55 156;
+    --color-neutral-900: 84 51 124;
+}, */
+    
