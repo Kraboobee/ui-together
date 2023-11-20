@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Reskin Specialist"
+title = "U+I Together"
 
 [params]
   displayName = "EN"
@@ -10,13 +10,13 @@ title = "Reskin Specialist"
   dateFormat = "2 January 2006"
   logo = "img/logo2.png"
   secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "Learn to Love Programming"
   copyright = "Kaamraan Raboobee :copyright: 2023"
 
 [author]
   name = "Kaamraan Raboobee"
   image = "img/portrait.jpg"
-  headline = "Better Brands and Faster Websites"
+  headline = "Teaching the fun parts of programming"
   bio = "Software Dev Patel"
    links = [
      { email = "mailto:kraboobee@gmail.com" },
