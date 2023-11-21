@@ -1,7 +1,7 @@
 +++
 title = 'Ionic'
 date = 2023-10-28T17:24:33+02:00
-draft = false
+draft = true
 +++
 ## Cross-platform App Development
 

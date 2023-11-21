@@ -1,7 +1,7 @@
 +++
 title = 'Django'
 date = 2023-10-28T17:23:44+02:00
-draft = false
+draft = true
 +++
 ## Web framework based on Python
 

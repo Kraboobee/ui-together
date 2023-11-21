@@ -1,7 +1,7 @@
 +++
 title = 'Docker'
 date = 2023-10-28T17:24:07+02:00
-draft = false
+draft = true
 +++
 ## Software containerization
 

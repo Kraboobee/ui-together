@@ -1,7 +1,7 @@
 +++
 title = 'Typescript'
 date = 2023-10-28T17:23:51+02:00
-draft = false
+draft = true
 +++
 ## Javascript with Types
 

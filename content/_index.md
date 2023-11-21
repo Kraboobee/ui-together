@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "U+I Together"
+description: "Learn to Love Programming"
 ---
 {{< lead >}}
 ### Computers exist to boost our laziness. 
  {{< /lead >}}
 
 Making great software should be fun and easy. 
-Join me and my lack of an attention span, and together we will benefit from pretty colours in our terminals.
+My goal is to show more people how to enjoy programming.

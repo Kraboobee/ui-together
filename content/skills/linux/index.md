@@ -1,7 +1,7 @@
 +++
 title = 'Linux'
 date = 2023-10-28T17:24:11+02:00
-draft = false
+draft = true
 +++
 ## Alternative Operating Systems
 

@@ -1,7 +1,7 @@
 +++
 title = 'React'
 date = 2023-10-28T17:20:00+02:00
-draft = false
+draft = true
 +++
 ## Web framework based on Javascript
 
