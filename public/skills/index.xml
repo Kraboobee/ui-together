@@ -1,82 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Skills on Reskin Specialist</title>
+    <title>Skills on U&#43;I Together</title>
     <link>https://example.org/skills/</link>
-    <description>Recent content in Skills on Reskin Specialist</description>
+    <description>Recent content in Skills on U&#43;I Together</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Kaamraan Raboobee :copyright: 2023</copyright>
-    <lastBuildDate>Sat, 28 Oct 2023 17:24:33 +0200</lastBuildDate><atom:link href="https://example.org/skills/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ionic</title>
-      <link>https://example.org/skills/ionic/</link>
-      <pubDate>Sat, 28 Oct 2023 17:24:33 +0200</pubDate>
-      
-      <guid>https://example.org/skills/ionic/</guid>
-      <description>Cross-platform App Development Ionic allows for intuitive cross-platform development with Javascript.</description>
-      
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://example.org/skills/hugo/</link>
-      <pubDate>Sat, 28 Oct 2023 17:24:26 +0200</pubDate>
-      
-      <guid>https://example.org/skills/hugo/</guid>
-      <description>Incredibly Fast Static Websites Sites built with Hugo are ridiculously fast.</description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://example.org/skills/linux/</link>
-      <pubDate>Sat, 28 Oct 2023 17:24:11 +0200</pubDate>
-      
-      <guid>https://example.org/skills/linux/</guid>
-      <description>Alternative Operating Systems I&amp;rsquo;ve used distros based on Ubuntu and Arch, with Manjaro being my favourite.</description>
-      
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://example.org/skills/docker/</link>
-      <pubDate>Sat, 28 Oct 2023 17:24:07 +0200</pubDate>
-      
-      <guid>https://example.org/skills/docker/</guid>
-      <description>Software containerization Working with containers allows for consistency in development across different environments and greater compatibility between different languages.</description>
-      
-    </item>
-    
-    <item>
-      <title>Typescript</title>
-      <link>https://example.org/skills/typescript/</link>
-      <pubDate>Sat, 28 Oct 2023 17:23:51 +0200</pubDate>
-      
-      <guid>https://example.org/skills/typescript/</guid>
-      <description>Javascript with Types Typescript adds a lot of features to Javascript.</description>
-      
-    </item>
-    
-    <item>
-      <title>Django</title>
-      <link>https://example.org/skills/django/</link>
-      <pubDate>Sat, 28 Oct 2023 17:23:44 +0200</pubDate>
-      
-      <guid>https://example.org/skills/django/</guid>
-      <description>Web framework based on Python With Python having been my entry point into programming, I naturally had to try one of its most popular frameworks.</description>
-      
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://example.org/skills/react/</link>
-      <pubDate>Sat, 28 Oct 2023 17:20:00 +0200</pubDate>
-      
-      <guid>https://example.org/skills/react/</guid>
-      <description>Web framework based on Javascript I enjoy using React due to its speed and the convenience of reusable components.</description>
-      
-    </item>
-    
+    <atom:link href="https://example.org/skills/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
