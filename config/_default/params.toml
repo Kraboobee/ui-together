@@ -15,7 +15,7 @@ enableCodeCopy = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
 defaultBackgroundImage = "/img/reflx-burn-2.jpg" # used as default for background images 
 defaultFeaturedImage = "/img/reflx-burn-2.jpg" # used as default for featured images in all articles
