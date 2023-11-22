@@ -1,27 +1,28 @@
 :root { 
-    --color-neutral:        245, 249, 255;
-    --color-neutral-50:     245, 249, 255;
-    --color-neutral-100:    235, 243, 255;
-    --color-neutral-200:    204, 223, 255;
-    --color-neutral-300:    168, 196, 255;
-    --color-neutral-400:    133, 163, 255;
-    --color-neutral-500:    80, 109, 251;
+    --color-neutral:        241, 239, 255;
+    --color-neutral-50:     251, 250, 255;
+    --color-neutral-100:    239, 236, 254;
+    --color-neutral-200:    220, 212, 252;
+    --color-neutral-300:    205, 205, 247;
+    --color-neutral-400:    176, 160, 238;
+    --color-neutral-500:    144, 113, 219;
     --color-neutral-600:    49, 66, 221;
-    --color-neutral-700:    55, 65, 174;
-    --color-neutral-800:    16, 20, 66;
-    --color-neutral-900:    11, 13, 35;;
+    --color-neutral-700:    80, 70, 170;
+    --color-neutral-800:    16, 16, 66;
+    --color-neutral-900:    5, 8, 35;
 
-    --color-primary-50:     241, 239, 254;
-    --color-primary-100:    231, 226, 253;
-    --color-primary-200:    212, 202, 251;
-    --color-primary-300:    189, 170, 247;
-    --color-primary-400:    170, 136, 241;
-    --color-primary-500:    158, 108, 232;
-    --color-primary-600:    146, 80, 219;
-    --color-primary-700:    127, 65, 193;
-    --color-primary-800:    103, 55, 156;
-    --color-primary-900:    84, 51, 124;
-    
+    --color-primary:        245, 249, 255;
+    --color-primary-50:     245, 249, 255;
+    --color-primary-100:    203, 247, 251;
+    --color-primary-200:    146, 230, 247;
+    --color-primary-300:    81,  195, 240;
+    --color-primary-400:    33,  156, 237;
+    --color-primary-500:    6,   93,  193;
+    --color-primary-600:    4,   60,  124;
+    --color-primary-700:    55, 65, 174;
+    --color-primary-800:    16, 20, 66;
+    --color-primary-900:    11, 13, 35; 
+
     --color-secondary-50:   217, 212, 252;
     --color-secondary-100:  208, 198, 251;
     --color-secondary-200:  189, 174, 249;
@@ -33,19 +34,26 @@
     --color-secondary-800:  65, 34, 98;
     --color-secondary-900:  46, 28, 69;
 }
-/* 
-@font-face {
-    font-family: font;
-    src: url('/fonts/DMMono-Regular.ttf');
-} */
 
 @font-face {
-    font-family: font;
+    font-family: secondary;
     src: url('/fonts/font.ttf');
 }
 
+@font-face {
+    font-family: primary;
+    src: url('/fonts/Yaldevi-Regular.ttf');
+}
+
+
 html {
-    font-family: font;
+    font-family: primary;
+    letter-spacing: 1px;
+}
+
+h1, h3 {
+    font-family: secondary;
+    letter-spacing: 0;
 }
 
 
