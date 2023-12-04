@@ -57,60 +57,6 @@
     
   
     
-      <url>
-            <loc>https://example.org/examples/blowfish-tutorial/</loc>
-            <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/</loc>
-            <lastmod>2023-10-02T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/repo-blowfish-tutorial/</loc>
-            <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/blowfish-lite/</loc>
-            <lastmod>2022-11-07T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/blowfish-artist/</loc>
-            <lastmod>2022-11-06T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/blowfish-lowkey/</loc>
-            <lastmod>2022-11-06T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
   
     
   
@@ -172,51 +118,6 @@
       <url>
             <loc>https://example.org/docs/welcome/</loc>
             <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/repo-blowfish-lite/</loc>
-            <lastmod>2021-11-07T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/repo-blowfish-artist/</loc>
-            <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/repo-blowfish-lowkey/</loc>
-            <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/blowfish-template/</loc>
-            <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://example.org/examples/blowfish-template-repo/</loc>
-            <lastmod>2020-11-06T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
